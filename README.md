@@ -2,7 +2,8 @@
 <h3 align="center">A Golang developer from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
-<h4 align="left">Tg: @klmnqmks Email: max.klim59@gmail.com</h4>
+<h4 align="left">Tg: @klmnqmks</h4>
+<h4 align="left">Email: max.klim59@gmail.com/h4>
 <p align="left">
 </p>
 
