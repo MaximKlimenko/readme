@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
 <h3 align="center">A Golang developer from Russia</h3>
 
+- 🔭 I’m currently working on **Yandex**
+
+- 🌱 I’m currently looking **for a job**
+
+- 📫 How to reach me **max.klim59@gmail.com**
+
+- ⚡ Fun fact **I survived a terrorist attack😳**
+
 <h3 align="left">Connect with me:</h3>
-<h4 align="left">Tg: @klmnqmks</h4>
-<h4 align="left">Email: max.klim59@gmail.com/h4>
 <p align="left">
 </p>
 
