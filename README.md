@@ -10,6 +10,7 @@
 - ⚡ Fun fact **I survived a terrorist attack😳**
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">tg: @klmnqmks</h4>
 <p align="left">
 </p>
 
